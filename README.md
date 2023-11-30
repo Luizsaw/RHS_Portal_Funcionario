@@ -6,16 +6,16 @@ Bem-vindo ao repositório do site Portal do Funcioário, parte integrante de um 
 
 O Portal do Funcionário é um site dedicado, proporcionando aos funcionários a facilidade de acessar e revisar suas informações pessoais, incluindo detalhes sobre a folha de pagamento e registros de ponto.
 
-## Available Scripts
+## Available Script
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Executa o aplicativo no modo de desenvolvimento.\
+Abrir [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
-#Login:
+#Login de acesso:
 Email: luizsaw@gmail.com
 senha: 123456
 
