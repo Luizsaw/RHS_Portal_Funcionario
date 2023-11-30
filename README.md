@@ -5,7 +5,7 @@ Bem-vindo ao repositório da aplicação de Folha de Pagamento, parte integrante
 ## 1. Folha de Pagamento
 
 A aplicação de Folha de Pagamento é o núcleo do sistema, responsável pelo processamento dos holerites dos funcionários e pela gestão abrangente das informações dos colaboradores.
-
+[[Link para o repositório](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)](#)
 
 ## 2. Portal do Funcionário
 
@@ -20,8 +20,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#Acesso ao site:
-Login: luizsaw@gmail.com
+#Login:
+Email: luizsaw@gmail.com
 senha: 123456
 
 ## 3. Registro de Ponto (Android App)
