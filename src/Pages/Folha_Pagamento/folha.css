@@ -1,0 +1,15 @@
+/* Defina as regras de estilo para a classe custom-button */
+.custom-button {
+  background-color: #980808; /* Cor de fundo desejada */
+  color: #fff; /* Cor do texto */
+  border: none;
+  padding: 10px 20px; /* Espaçamento interno do botão */
+  border-radius: 5px; /* Borda arredondada */
+  font-size: 12px; /* Tamanho da fonte */
+  cursor: pointer;
+  transition: background-color 0.3s; /* Efeito de transição ao passar o mouse */
+}
+
+.custom-button:hover {
+  background-color: #ed4040; /* Cor de fundo ao passar o mouse */
+}

@@ -1,0 +1,35 @@
+.container-header {
+  background-color: #000000; /* Cor de fundo da barra de menu */
+  color: #fff; /* Cor do texto */
+  padding: 0px 20px; /* Espaçamento interno */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+.custom-dropdown-button {
+  background-color: #36781f !important;
+  color: #fff !important;
+  border: none !important;
+}
+.custom-dropdown-button:hover {
+  background-color: #285f15 !important;
+}
+
+
+.Dropdown-perfil{
+    border-radius: 90%;
+    position: relative;
+    display: flex;
+    left:5px;   
+}
+.Logo {
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+
+/* header.css */
+.Navbrand-Home:hover,
+.Navbrand-mensagens:hover,
+.Navbrand-Folha:hover,
+.Navbrand-Controle_ponto:hover {
+  color: green !important;
+}
