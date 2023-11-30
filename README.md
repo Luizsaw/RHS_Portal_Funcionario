@@ -1,6 +1,8 @@
 # Sistema de Folha de Pagamento
 
-Bem-vindo ao repositório do site Portal do Funcioário, parte integrante de um sistema abrangente arquitetado e desenvolvido por mim. Este sistema é composto por três aplicações distintas, cada uma desempenhando um papel vital na gestão eficiente de recursos humanos.
+Bem-vindo ao repositório do site Portal do Funcioário desenvolvido com React, Css e JavaScript.
+
+Este site é parte integrante de um sistema de folha de pagamento arquitetado e desenvolvido por mim. Este sistema é composto por três aplicações distintas, concebido como parte da aplicação prática dos conhecimentos adquiridos durante meu percurso acadêmico. Ao longo de seis meses, empenhei-me no desenvolvimento desta solução robusta, buscando oferecer uma ferramenta eficiente e intuitiva para a administração de recursos humanos.
 
 ## 1. Portal do Funcionário
 
@@ -22,14 +24,15 @@ senha: 123456
 ## 2. Folha de Pagamento
 
 A aplicação de Folha de Pagamento é o núcleo do sistema, responsável pelo processamento dos holerites dos funcionários e pela gestão abrangente das informações dos colaboradores.
+
 [[Link para o repositório](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)](#)
 
 
 ## 3. Registro de Ponto (Android App)
 
-O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira conveniente.
+O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira simples.
 
-Este sistema foi concebido como parte da aplicação prática dos conhecimentos adquiridos durante meu percurso acadêmico. Ao longo de seis meses, empenhei-me no desenvolvimento desta solução robusta, buscando oferecer uma ferramenta eficiente e intuitiva para a administração de recursos humanos.
+[[Link para o repositório](https://github.com/Luizsaw/RHS_Folha_de_Ponto)](#)
 
 ## Documentação
 
