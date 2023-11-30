@@ -1,13 +1,8 @@
 # Sistema de Folha de Pagamento
 
-Bem-vindo ao repositório da aplicação de Folha de Pagamento, parte integrante de um sistema abrangente arquitetado e desenvolvido por mim. Este sistema é composto por três aplicações distintas, cada uma desempenhando um papel vital na gestão eficiente de recursos humanos.
+Bem-vindo ao repositório do site Portal do Funcioário, parte integrante de um sistema abrangente arquitetado e desenvolvido por mim. Este sistema é composto por três aplicações distintas, cada uma desempenhando um papel vital na gestão eficiente de recursos humanos.
 
-## 1. Folha de Pagamento
-
-A aplicação de Folha de Pagamento é o núcleo do sistema, responsável pelo processamento dos holerites dos funcionários e pela gestão abrangente das informações dos colaboradores.
-[[Link para o repositório](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)](#)
-
-## 2. Portal do Funcionário
+## 1. Portal do Funcionário
 
 O Portal do Funcionário é um site dedicado, proporcionando aos funcionários a facilidade de acessar e revisar suas informações pessoais, incluindo detalhes sobre a folha de pagamento e registros de ponto.
 
@@ -23,6 +18,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 #Login:
 Email: luizsaw@gmail.com
 senha: 123456
+
+## 2. Folha de Pagamento
+
+A aplicação de Folha de Pagamento é o núcleo do sistema, responsável pelo processamento dos holerites dos funcionários e pela gestão abrangente das informações dos colaboradores.
+[[Link para o repositório](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)](#)
+
 
 ## 3. Registro de Ponto (Android App)
 
